@@ -55,7 +55,7 @@ Các phát hiện quan trọng:
 
 - Môi trường làm việc: Phần lớn đội ngũ (75%) làm việc trực tiếp tại trụ sở chính, trong khi 25% còn lại đang vận hành theo mô hình làm việc từ xa (Remote).
 
-#6. Đề xuất chiến lược (Recommendations)
+# 6. Đề xuất chiến lược (Recommendations)
 
 Dựa trên các kết quả phân tích, tôi đề xuất các hành động sau:
 
@@ -65,7 +65,7 @@ Dựa trên các kết quả phân tích, tôi đề xuất các hành động s
 
 - Gắn kết nhân sự từ xa: Với 1/4 nhân sự làm việc remote, HR cần tăng cường các công cụ tương tác trực tuyến và các chương trình gắn kết đội ngũ để tránh cảm giác bị cô lập và duy trì hiệu suất.
 
-#7. Giả định và Hạn chế (Assumptions & Caveats)
+# 7. Giả định và Hạn chế (Assumptions & Caveats)
 
 - Giả định: Dữ liệu được coi là phản ánh đầy đủ thực trạng nhân sự hiện tại và cột new_termdate (ngày nghỉ việc) được ghi nhận chính xác trên hệ thống.
 
